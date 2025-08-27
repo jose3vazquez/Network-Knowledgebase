@@ -1,7 +1,6 @@
 # 📡 CompTIA Network+ Knowledge Base  
 
-An **in-depth, multi-file knowledge base** of **300 CompTIA Network+ facts**, organized into **5 categories with 60 unique, exam-relevant facts each**.  
-This project is designed as a **self-contained study and reference resource** for the CompTIA Network+ (N10-009) exam, balancing **theory, hands-on tools, and troubleshooting methodology**.  
+An **in-depth, multi-file knowledge base** of **300 CompTIA Network+ facts**, organized into **5 categories with 60 unique, exam-relevant facts each**. This project is designed as a **self-contained study and reference resource** for the CompTIA Network+ (N10-009) exam, balancing **theory, hands-on tools, and troubleshooting methodology**.  
 
 ---
 
