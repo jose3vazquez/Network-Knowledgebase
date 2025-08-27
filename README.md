@@ -14,10 +14,23 @@ An **in-depth, multi-file knowledge base** of **300 CompTIA Network+ facts**, or
 
 ---
 
+## 📦 Bonus Materials  
+
+These extras expand the project into a **complete study kit**:  
+
+1. 🧮 [Subnetting Practice Pack](bonus-subnetting-practice.md)  
+2. 🔢 [Ports & Protocols Quick Sheet](bonus-ports-protocols.md)  
+3. 🖼️ [Network Diagrams (ASCII + Image Placeholders)](bonus-network-diagrams.md)  
+4. 🛠️ [Troubleshooting Scenarios](bonus-troubleshooting-scenarios.md)  
+5. 🪟 [Windows Command Cheat Sheet](bonus-command-cheatsheet-windows.md)  
+6. 🐧 [Linux Command Cheat Sheet](bonus-command-cheatsheet-linux.md)  
+
+---
+
 ## ✅ About This Project  
 
 This repository is built to:  
-- Provide an **in-depth, exam-aligned guide** to CompTIA A+ hardware topics  
+- Provide an **in-depth, exam-aligned guide** to CompTIA Network+ hardware topics  
 - Strengthen **systematic technical writing and knowledge organization**  
 - Serve as a **study guide, reference library, and interview prep tool**  
 - Demonstrate mastery of **hardware across 14 categories** with zero overlap  
@@ -47,20 +60,7 @@ Licensed under the MIT License
 
 - Study section by section, focusing on **facts + applied practice**.  
 - Pair with **practice exams & subnetting drills** for mastery.  
-- Use as a **knowledge base** for quick lookup in labs or work.  
-
----
-
-## 📦 Bonus Materials  
-
-These extras expand the project into a **complete study kit**:  
-
-1. 🧮 [Subnetting Practice Pack](bonus-subnetting-practice.md)  
-2. 🔢 [Ports & Protocols Quick Sheet](bonus-ports-protocols.md)  
-3. 🖼️ [Network Diagrams (ASCII + Image Placeholders)](bonus-network-diagrams.md)  
-4. 🛠️ [Troubleshooting Scenarios](bonus-troubleshooting-scenarios.md)  
-5. 🪟 [Windows Command Cheat Sheet](bonus-command-cheatsheet-windows.md)  
-6. 🐧 [Linux Command Cheat Sheet](bonus-command-cheatsheet-linux.md)  
+- Use as a **knowledge base** for quick lookup in labs or work.
 
 ---
 
