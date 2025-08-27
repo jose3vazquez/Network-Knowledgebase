@@ -25,27 +25,6 @@ These extras expand the project into a **complete study kit**:
 5. 🪟 [Windows Command Cheat Sheet](bonus-command-cheatsheet-windows.md)  
 6. 🐧 [Linux Command Cheat Sheet](bonus-command-cheatsheet-linux.md)  
 
----
-
-## ✅ About This Project  
-
-This repository is built to:  
-- Provide an **in-depth, exam-aligned guide** to CompTIA Network+ hardware topics  
-- Strengthen **systematic technical writing and knowledge organization**  
-- Serve as a **study guide, reference library, and interview prep tool**  
-- Demonstrate mastery of **hardware across 14 categories** with zero overlap  
-
----
-
-## 📜 License  
-Licensed under the MIT License  
-
----
-
-## ✍️ Maintained By  
-**Jose Vazquez** 
-
-💡 **Created as both a personal study resource and a demonstration of structured, exam-aligned technical writing.**
 
 ## 🎯 Features  
 
