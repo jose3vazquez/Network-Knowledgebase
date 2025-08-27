@@ -14,6 +14,26 @@ An **in-depth, multi-file knowledge base** of **300 CompTIA Network+ facts**, or
 
 ---
 
+## ✅ About This Project  
+
+This repository is built to:  
+- Provide an **in-depth, exam-aligned guide** to CompTIA A+ hardware topics  
+- Strengthen **systematic technical writing and knowledge organization**  
+- Serve as a **study guide, reference library, and interview prep tool**  
+- Demonstrate mastery of **hardware across 14 categories** with zero overlap  
+
+---
+
+## 📜 License  
+Licensed under the MIT License  
+
+---
+
+## ✍️ Maintained By  
+**Jose Vazquez** 
+
+💡 **Created as both a personal study resource and a demonstration of structured, exam-aligned technical writing.**
+
 ## 🎯 Features  
 
 - **60 facts per category**: dense coverage without overload.  
