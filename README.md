@@ -18,12 +18,12 @@ An **in-depth, multi-file knowledge base** of **300 CompTIA Network+ facts**, or
 
 These extras expand the project into a **complete study kit**:  
 
-1. 🧮 [Subnetting Practice Pack](bonus-subnetting-practice.md)  
-2. 🔢 [Ports & Protocols Quick Sheet](bonus-ports-protocols.md)  
-3. 🖼️ [Network Diagrams (ASCII + Image Placeholders)](bonus-network-diagrams.md)  
-4. 🛠️ [Troubleshooting Scenarios](bonus-troubleshooting-scenarios.md)  
-5. 🪟 [Windows Command Cheat Sheet](bonus-command-cheatsheet-windows.md)  
-6. 🐧 [Linux Command Cheat Sheet](bonus-command-cheatsheet-linux.md)  
+1. 🧮 [Subnetting Practice Pack](Network+Knowledgebase/BonusMaterials/bonus-subnetting-practice.md)  
+2. 🔢 [Ports & Protocols Quick Sheet](Network+Knowledgebase/BonusMaterials/bonus-ports-protocols.md)  
+3. 🖼️ [Network Diagrams (ASCII + Image Placeholders)](Network+Knowledgebase/BonusMaterials/bonus-network-diagrams.md)  
+4. 🛠️ [Troubleshooting Scenarios](Network+Knowledgebase/BonusMaterials/bonus-troubleshooting-scenarios.md)  
+5. 🪟 [Windows Command Cheat Sheet](Network+Knowledgebase/BonusMaterials/bonus-command-cheatsheet-windows.md)  
+6. 🐧 [Linux Command Cheat Sheet](Network+Knowledgebase/BonusMaterials/bonus-command-cheatsheet-linux.md)  
 
 
 ## 🎯 Features  
