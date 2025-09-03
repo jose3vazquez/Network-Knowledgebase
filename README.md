@@ -7,7 +7,7 @@ An **in-depth, multi-file knowledge base** of **300 CompTIA Network+ facts**, or
 ## 📚 Sections  
 
 1. 🌐 [Networking Concepts](Network+Knowledgebase/sections/01-networking-concepts.md)  
-2. 🏗️ [Network Implementations](02-network-implementations.md)  
+2. 🏗️ [Network Implementations](Network+Knowledgebase/sections/02-network-implementations.md)  
 3. ⚙️ [Network Operations](03-network-operations.md)  
 4. 🔒 [Network Security](04-network-security.md)  
 5. 🛠️ [Network Troubleshooting & Tools](05-network-troubleshooting.md)  
